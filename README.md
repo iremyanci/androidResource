@@ -1,0 +1,2 @@
+# androidResource
+colors, customXML
